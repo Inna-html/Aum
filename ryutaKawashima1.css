@@ -362,7 +362,19 @@ table {
     display: flex;
     gap: 35px;
     justify-content: center;
+    align-items: center;
+
+    height: 150px;
+    border-radius: 25px;
+    border: 1px solid green;
 }
+.test {
+    font-size: 32px;
+    color: #022203;
+}
+
+
+/* ========================================================================*/
 
 .test1 {
     color: rgb(230, 20, 20);
